@@ -1,15 +1,15 @@
 
 # To-Do-List Web App using React
-A to-do list app created using React is a web application that allows users to create and manage a list of tasks or activities they need to complete. The app is built using the React JavaScript library, which provides a fast and responsive user interface.
+This to-do list app created using React is a web application that allows users to create and manage a list of tasks or activities they need to complete. The app is built using the React JavaScript library, which provides a fast and responsive user interface.
 
 When a user opens the app, they are presented with a list of tasks they have created previously or an empty list if they are using the app for the first time. The user can then add new tasks to the list by entering a task description and pressing the "Add" button
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/232346324-62ca16b7-757e-45aa-8d03-5f79f223251c.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/107539107/232346428-760b1377-9b7d-485b-b2b2-6b684ce043f5.png)
 
 
 ## Tech Stack
